@@ -1,4 +1,4 @@
-package com.jonesjalapat.CreateThumbnail;
+package com.jonesjalapat.createThumbnail;
 
 import java.awt.Color;
 import java.awt.Graphics2D;
